@@ -9,6 +9,7 @@ import javax.swing.RowFilter;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableRowSorter;
 // author is your boss name is yuvraj
+// this is for job
 public class StudentInventory extends javax.swing.JFrame {
 
     /**
